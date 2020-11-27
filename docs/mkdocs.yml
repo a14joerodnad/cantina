@@ -1,1 +1,11 @@
-site_name: My Docs
+site_name: Cantina Joel
+nav:
+  - Home: 'index.md'
+  - About: 'about.md'
+  - 'Assignatures':
+    - 'M02': 'baseDeDades.md'
+    - 'M03': 'programacio.md'
+    - 'M06': 'desenvolupamentClient.md'
+    - 'M07': 'desenvolupamentServidor.md'
+    - 'TUTORIA': 'tutoria.md'
+theme: readthedocs
