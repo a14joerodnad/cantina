@@ -1,0 +1,7 @@
+## Proyecto X
+
+Project X (en espanyol: Projecte X) és una pel·lícula de comèdia dirigida per Nima Nourizadeh, escrita per Michael Bacall i Matt Drake, basada en una història de Bacall, i produïda per Todd Phillips.1 La trama de la cinta se centra en tres amics -Thomas (Thomas Mann), Costa (Oliver Cooper) i JB (Jonathan Daniel Brown) - que planegen augmentar la seva popularitat a l'escola fent una festa, que posteriorment se'ls anirà de les mans.
+
+Projecte X va ser originalment concebut com un nom temporal, però el títol no es va canviar perquè el secret generat al seu voltant va augmentar l'interès en el mateix. Amb la finalitat de trobar cares no conegudes en el món de cinema, el càsting va tenir abast nacional. La majoria dels actors van procedir d'aquest càsting, encara que uns pocs tenien antecedents actuant en alguna producció, com és el cas de Mann. La resta de l'elenc provenia d'algun dels múltiples càsting realitzats. La pel·lícula va ser filmada a Los Angeles, Califòrnia durant cinc setmanes amb un pressupost de 12 milions €. La cinta es presenta com un vídeo casolà des de la perspectiva d'un assistent de la festa amb una càmera per documentar els esdeveniments de la nit.
+
+<img src="/img/proyectox.jpg">

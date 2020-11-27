@@ -1,11 +1,9 @@
-site_name: DAW Joel
+site_name: Pelicules Joel
 nav:
-  - Home: 'index.md'
-  - About: 'about.md'
-  - 'Assignatures':
-    - 'M02': 'baseDeDades.md'
-    - 'M03': 'programacio.md'
-    - 'M06': 'desenvolupamentClient.md'
-    - 'M07': 'desenvolupamentServidor.md'
-    - 'TUTORIA': 'tutoria.md'
+  - Inici: 'index.md'
+  - 'Pelicul·les':
+    - 'Forrest Gump': 'forrestGump.md'
+    - 'Proyecto X': 'proyectoX.md'
+    - 'Annabelle': 'annabelle.md'
+    - 'Cars 2': 'cars2.md'
 theme: readthedocs
